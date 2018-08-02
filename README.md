@@ -1,5 +1,5 @@
 # Manchu-X99-BroadwellE-Hackintosh
-Within this repository are files and links to guides I've used to create my X99 Broadwell-E Hackintosh. If you wish to distribute these files with your own creations or modifications, please link to this GitHub Repository. Feel free to adapt and use these files for your own system.
+Within this repository are files and links to guides I've used to create my X99 Broadwell-E Hackintosh. If you wish to distribute these files with your own creations or modifications, please link to this GitHub Repository. Feel free to adapt and use these files for your own system. The main guide for creating an X99 Hackintosh can be found at **/Useful Guides/Extending the iMac Pro to X99.url**
 
 ## System Specs:
 - i7 6800k
